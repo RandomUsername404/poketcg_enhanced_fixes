@@ -243,7 +243,7 @@ Text06a6:
 	done
 
 Text06a7:
-	text "Oh come on!, you gotta"
+	text "Oh come on! You gotta"
 	line "compete in a heated duel!"
 	done
 
