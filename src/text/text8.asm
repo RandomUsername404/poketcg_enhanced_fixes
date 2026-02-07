@@ -366,7 +366,7 @@ Text06bc:
 	line "to inherit the Legendary Cards?"
 	line "You will need many cards in order"
 	line "to inherit the Legendary Cards."
-	line "Hmmm...it seems you have "
+	line "Hmmm... it seems you have"
 	line "collected many cards!"
 	line "Then let's begin our Duel!"
 	done
