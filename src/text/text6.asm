@@ -514,7 +514,7 @@ Text0579:
 	text "Hmm-hmm-hmm... I lose."
 	line "But that's no surprise, seeing"
 	line "as how you've come this far."
-	line "Your next opponent is waiting "
+	line "Your next opponent is waiting"
 	line "for you!"
 	done
 
